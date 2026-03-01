@@ -1,2 +1,2 @@
 # TaskQuest
-Gamified To-do list Application
+Gamified To Do App with Social and Competative Gamification
